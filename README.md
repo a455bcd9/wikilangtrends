@@ -10,9 +10,9 @@ ToolForge is slightly better: https://pageviews.toolforge.org/siteviews/?platfor
 I opened a feature request on Phabricator: https://phabricator.wikimedia.org/T257071
 
 In the meantine, the code is this repo helps to answer the following questions:
-* What's the most read (or edited) edition of Wikipedia by country?
-* In each country, what are the most read (or edited) editions of Wikipedia?
-* How does the share of page views (or edits) by language among all Wikipedias evolve over time?
-* How does the share of page views (or edits) by country on one Wikipedia edition evolve over time?
+* What's the most read (or edited) edition of Wikipedia by country at any point in time?
+* In each country, what are the most read (or edited) editions of Wikipedia at any point in time?
+* How did the share of page views (or edits) by language among all Wikipedias evolve over time?
+* How did the share of page views (or edits) by country on one Wikipedia edition evolve over time?
 
 This code uses the Wikimedia API: https://wikimedia.org/api/rest_v1/#/
