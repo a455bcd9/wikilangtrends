@@ -2,7 +2,9 @@
 Languages trends on Wikipedia
 
 Wikimedia Statistics provides various metrics on their website: https://stats.wikimedia.org/
+
 However, you can't compare two editions or get statistics for all Wikipedia projects.
+
 ToolForge is slightly better: https://pageviews.toolforge.org/siteviews/?platform=all-access&source=pageviews&agent=user&range=latest-20&sites=en.wikipedia.org
 
 I opened a feature request on Phabricator: https://phabricator.wikimedia.org/T257071
