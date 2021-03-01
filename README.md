@@ -15,4 +15,7 @@ In the meantine, the code is this repo helps to answer the following questions:
 * How did the share of page views (or edits) by language among all Wikipedias evolve over time?
 * How did the share of page views (or edits) by country on one Wikipedia edition evolve over time?
 
+Issues with the map:
+* PS, AD, MC, SZ, PS, MT + PM, MV, FM, TL and some dependent territories
+
 This code uses the Wikimedia API: https://wikimedia.org/api/rest_v1/#/
