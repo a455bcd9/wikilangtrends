@@ -1,5 +1,4 @@
-# wikilangtrends
-Languages trends on Wikipedia
+# wikilangtrends: Languages trends on Wikipedia
 
 Wikimedia Statistics provides various metrics on their website: https://stats.wikimedia.org/
 
@@ -19,3 +18,5 @@ Issues with the map:
 * PS, AD, MC, SZ, PS, MT + PM, MV, FM, TL and some dependent territories
 
 This code uses the Wikimedia API: https://wikimedia.org/api/rest_v1/#/
+
+Blog post and analysis of the results: https://adssx.substack.com/p/the-rise-of-the-rest
