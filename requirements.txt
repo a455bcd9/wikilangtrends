@@ -1,0 +1,3 @@
+pygal
+geopandas
+country_converter
