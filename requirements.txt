@@ -1,3 +1,5 @@
 pygal
 geopandas
 country_converter
+pandas
+IPython
